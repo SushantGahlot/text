@@ -1,0 +1,20 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+}
+
+.axis path, .axis line {
+    fill: none;
+    stroke: #555555;
+    shape-rendering: crispEdges;
+}
+
+.line {
+    fill: none;
+    stroke: #107dff;
+    stroke-width: 1px;
+}
